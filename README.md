@@ -70,4 +70,4 @@ The user will have the ability to add item, delete and update listed items. Auth
   
 </ul>
 <h3>Component Hierachry and Frame Work</h3>
-<p>Located in seperate file</p>
+<p>Located in seperate file Andres</p>
